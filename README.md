@@ -23,7 +23,7 @@ I'm a junior front-end developer passionate about building clean, responsive, an
 - Secure a front-end internship or freelance role
 
 ## 📫 Contact
-- Email: godsfavourokpo11com
+- Email: godsfavourokpo11@gmail.com
 - GitHub: https://github.com/Godsfavour
 
 
