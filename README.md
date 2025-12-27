@@ -24,7 +24,7 @@ I'm a junior front-end developer passionate about building clean, responsive, an
 
 ## 📫 Contact
 - Email: godsfavourokpo11@gmail.com
-- GitHub: https://github.com/Godsfavour
+- GitHub: https://github.com/Godsfavour11
 
 
 <!--
