@@ -13,8 +13,8 @@ I'm a junior front-end developer passionate about building clean, responsive, an
 - An Error Page
 - Profile Card
 - Portfolio Website
-- More enhanced Personal Portfolio Website (coming soon)
-- Business Landing Page (coming soon)
+- Business Landing Page
+- More enhanced portfolio and business page (coming soon)
 - JavaScript Mini App (coming soon)
 
 ## 🎯 Goals
